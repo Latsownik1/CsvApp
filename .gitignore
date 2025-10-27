@@ -3,4 +3,4 @@ obj/
 *.log
 *.tmp
 .env
-produkty.csv
+*.csv
